@@ -1,8 +1,8 @@
 # Morphologic Interview Tasks
 
-This repo contains a simple app written in html + javascript. The purpose of the app is to fetch a 7 day weather forecast for a set of locations.
+Completed version - Siva Kumar Pasupuleti
 
-We'd like you to complete the following tasks by 9am on Thursday the 31st August. You are welcome to use the internet to find any documentation you think you require, but avoid importing any other external scripts or styles beyond what is already provided.
+This repo contains solution for the below tasks.
 
 ## Task 1
 
